@@ -1,6 +1,6 @@
 <?php
 
-$key = 'AIzaSyD5m4XweIlaB3sMAw7fEp4nRK3HX6OAxsc';
+$key = 'YOUR_API_KEY';
 $address ='205 Humber College Blvd., Toronto, Ontario, Canada M9W 5L7';
 
 $url ='https://maps.googleapis.com/maps/api/geocode/json?address='.
